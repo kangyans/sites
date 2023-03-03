@@ -1,7 +1,7 @@
 # MRI Labs
 | PI | Topics | Sites | Insititute |
 | :---: | :---: | :--- | :---: |
-| Berkin Bilgic | MRI | https://www.nmr.mgh.harvard.edu/~berkin/index.html | MGH |
+| [Berkin Bilgic](https://scholar.google.com/citations?user=UiSXwdIAAAAJ) | MRI | https://www.nmr.mgh.harvard.edu/~berkin/index.html | MGH |
 | Brian A.Hargreaves | MRI | https://med.stanford.edu/profiles/brian-hargreaves#bio | Stanford University |
 | Jeff Fessler | Medical imaging | https://web.eecs.umich.edu/~fessler/ | Umich |
 | Kawin Setsompop | MRI | https://med.stanford.edu/profiles/kawin-setsompop#bio | Stanford University |
