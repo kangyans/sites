@@ -13,6 +13,7 @@
 | :---: | :---: | :--- | :---: |
 | Hacker News | IT News | https://news.ycombinator.com/ | Unknowm |
 | Wait But Why | Tech Blog | https://waitbutwhy.com/homepage | Tim Urban |
+| Scientific American | Science | https://www.scientificamerican.com/ | Unknown |
 
 
 
