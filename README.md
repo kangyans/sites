@@ -27,7 +27,7 @@
 
 # Reading & Watching
 | Topics | Platform/Types | Sites | Authors |
-| :---: | :---: | :--- | :---: | :---: |
+| :---: | :---: | :--- | :---: |
 | Chip War | Youtube | https://youtube.com/playlist?list=PLgKat64mmTvWPOe79O5EbcN_yg3g9UHmF | 李天豪 |
 
 
