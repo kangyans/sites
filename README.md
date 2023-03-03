@@ -12,22 +12,24 @@
 | [Martin Uecker](https://scholar.google.com/citations?user=r7BG-ZYAAAAJ) | MRI | https://wwwuser.gwdg.de/~muecker1/ | University Medical Center Göttingen |
 | [Ulugbek S. Kamilov](https://scholar.google.com/citations?user=3qYUSDwAAAAJ) | Computational Imaging | https://cigroup.wustl.edu/ | Washigton University in St.Lousis |
 
-# IT & Science
-| Name | Topics | Sites | Maintainer |
-| :---: | :---: | :--- | :---: |
-| Hacker News | IT News | https://news.ycombinator.com/ | Unknowm |
-| Wait But Why | Tech Blog | https://waitbutwhy.com/homepage | Tim Urban |
-| Scientific American | Science | https://www.scientificamerican.com/ | Unknown |
-| Privacy Tools |  Tools | https://www.privacytools.io/ | Unknown |
+# News 
+| Tech | Science | Economy | Humanities |
+| :---: | :---: | :---: | :---: |
+| [Hacker News](https://news.ycombinator.com/) | [Scientific American](https://www.scientificamerican.com/) | [The Economist](https://www.economist.com/) | [The New Yorker](https://www.newyorker.com/)
+| [Wait But Why](https://waitbutwhy.com/homepage) | | | |
 
-# Common Sense
+| Scientific American | Science | https://www.scientificamerican.com/ | Unknown |
+| New Yourker |  Tools | https://www.privacytools.io/ | Unknown |
+
+# Internet Security
 | Name | Topics | Sites | Maintainer |
 | :---: | :---: | :--- | :---: |
-| kkndme | Housing | https://github.com/shengcaishizhan/kkndme_tianya | shengcaishizhan |
+| Privacy Tools |  Tools | https://www.privacytools.io/ | Unknown |
 
 # Reading & Watching
 | Topics | Platform/Types | Sites | Author |
 | :---: | :---: | :--- | :---: |
 | Chip War | Youtube | https://youtube.com/playlist?list=PLgKat64mmTvWPOe79O5EbcN_yg3g9UHmF | 李天豪 |
+| 中国买房漫谈 | Github | https://github.com/shengcaishizhan/kkndme_tianya | kkndme |
 
 
