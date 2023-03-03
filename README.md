@@ -1,4 +1,5 @@
 # :classical_building: MRI Labs
+###### * This section aims to list MRI labs who either have interesting works or offer open-source algorithm package, to track and learn their recent publications 
 | PI | Topics | Sites | Insititute |
 | :---: | :---: | --- | :---: |
 | [Anthony Christodoulou](https://scholar.google.com/citations?user=9CUgWDIAAAAJ) | MRI | https://researchers.cedars-sinai.edu/Anthony.Christodoulou | UCLA |
