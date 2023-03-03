@@ -21,7 +21,7 @@
 
 # Internet Security
 | Name | Description |
-| :---: | :---: |
+| :---: | :--- |
 | [Privacy Tools](https://www.privacytools.io/) |  A list of tools, covering email, browser, messenge and OS etc., to help you keeping your digtal data in security when you are surfing in the Internet. |
 
 # Reading & Watching
