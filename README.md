@@ -1,5 +1,5 @@
 # Privacy
 | name | sites | maintainer |
-|---| ---|
-| Privacy Tools | https://www.privacytools.io/ | - |
+|---|---|---|
+| Privacy Tools | https://www.privacytools.io/ | unknown |
 
