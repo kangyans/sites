@@ -8,16 +8,11 @@
 | --- | --- | --- | --- |
 | kkndme | Housing | https://github.com/shengcaishizhan/kkndme_tianya | shengcaishizhan |
 
-# Websites
+# IT & Science
 | Name | Topics | Sites | Maintainer |
 | --- | --- | --- | --- |
 | Hacker News | IT News | https://news.ycombinator.com/ | Unknowm |
+| Wait But Why | Tech Blog | https://waitbutwhy.com/homepage | Tim Urban |
 
-# Blogs
-| Name | Topics | Sites | Maintainer |
-| --- | --- | --- | --- |
 
-# Recommendations
-| Name | Topics | Sites | Maintainer |
-| --- | --- | --- | --- |
 
