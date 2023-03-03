@@ -10,11 +10,6 @@
 | [Martin Uecker](https://scholar.google.com/citations?user=r7BG-ZYAAAAJ) | MRI | https://wwwuser.gwdg.de/~muecker1/ | University Medical Center Göttingen |
 | [Ulugbek S. Kamilov](https://scholar.google.com/citations?user=3qYUSDwAAAAJ) | Computational Imaging | https://cigroup.wustl.edu/ | Washigton University in St.Lousis |
 
-# Common Sense
-| Name | Topics | Sites | Maintainer |
-| :---: | :---: | :--- | :---: |
-| kkndme | Housing | https://github.com/shengcaishizhan/kkndme_tianya | shengcaishizhan |
-
 # IT & Science
 | Name | Topics | Sites | Maintainer |
 | :---: | :---: | :--- | :---: |
@@ -23,5 +18,9 @@
 | Scientific American | Science | https://www.scientificamerican.com/ | Unknown |
 | Privacy Tools |  Tool lists | https://www.privacytools.io/ | Unknown |
 
+# Common Sense
+| Name | Topics | Sites | Maintainer |
+| :---: | :---: | :--- | :---: |
+| kkndme | Housing | https://github.com/shengcaishizhan/kkndme_tianya | shengcaishizhan |
 
 
