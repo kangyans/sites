@@ -1,11 +1,11 @@
 # :globe_with_meridians: What's happening...
-| Tech | Science | Economy | Humanities |
-| :---: | :---: | :---: | :---: |
-| [Hacker News](https://news.ycombinator.com/) | [Scientific American](https://www.scientificamerican.com/) | [The Economist](https://www.economist.com/) | [The New Yorker](https://www.newyorker.com/)
-| [Wait But Why](https://waitbutwhy.com/homepage) | | | |
-| [Weekly](https://github.com/ruanyf/weekly) | | | |
-| [Slashdot](https://slashdot.org/) | | | |
-| [Solidot](https://www.solidot.org/) | | | |
+| Tech | Science | Economy | Humanities | Fun |
+| :---: | :---: | :---: | :---: | :---: |
+| [Hacker News](https://news.ycombinator.com/) | [Scientific American](https://www.scientificamerican.com/) | [The Economist](https://www.economist.com/) | [The New Yorker](https://www.newyorker.com/) | |
+| [Wait But Why](https://waitbutwhy.com/homepage) | | | | |
+| [Weekly](https://github.com/ruanyf/weekly) | | | | |
+| [Slashdot](https://slashdot.org/) | | | | |
+| [Solidot](https://www.solidot.org/) | | | | |
 
 # :hammer_and_wrench: Tools
 | Name | Description |
