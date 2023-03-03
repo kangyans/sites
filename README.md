@@ -26,7 +26,7 @@
 | kkndme | Housing | https://github.com/shengcaishizhan/kkndme_tianya | shengcaishizhan |
 
 # Reading & Watching
-| Topics | Platform/Types | Sites | Authors |
+| Topics | Platform/Types | Sites | Author |
 | :---: | :---: | :--- | :---: |
 | Chip War | Youtube | https://youtube.com/playlist?list=PLgKat64mmTvWPOe79O5EbcN_yg3g9UHmF | 李天豪 |
 
