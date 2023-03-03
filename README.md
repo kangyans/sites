@@ -1,7 +1,7 @@
 # :globe_with_meridians: What's happening...
 | Tech | Science | Economy | Humanities | Fun |
 | :---: | :---: | :---: | :---: | :---: |
-| [Hacker News](https://news.ycombinator.com/) | [Scientific American](https://www.scientificamerican.com/) | [The Economist](https://www.economist.com/) | [The New Yorker](https://www.newyorker.com/) | |
+| [Hacker News](https://news.ycombinator.com/) | [Scientific American](https://www.scientificamerican.com/) | [The Economist](https://www.economist.com/) | [The New Yorker](https://www.newyorker.com/) | [XKCD](https://xkcd.com/) |
 | [Wait But Why](https://waitbutwhy.com/homepage) | | | | |
 | [Weekly](https://github.com/ruanyf/weekly) | | | | |
 | [Slashdot](https://slashdot.org/) | | | | |
