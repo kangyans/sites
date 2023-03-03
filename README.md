@@ -22,7 +22,7 @@
 # Internet Security
 | Name | Description |
 | :---: | :--- |
-| [Privacy Tools](https://www.privacytools.io/) |  > Provides services, tools  and privacy guides to counter global mass surveillance |
+| [Privacy Tools](https://www.privacytools.io/) |  >R Provides services, tools  and privacy guides to counter global mass surveillance |
 
 # Reading & Watching
 | Topics | Platform/Types | Sites | Author |
