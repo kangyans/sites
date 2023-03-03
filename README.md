@@ -1,14 +1,15 @@
 # Privacy
-| name | Topics | sites | maintainer|
+| Name | Topics | Sites | Maintainer |
 | --- | --- | --- | --- |
-| Privacy Tools |  Tool lists | https://www.privacytools.io/ | unknown |
+| Privacy Tools |  Tool lists | https://www.privacytools.io/ | Unknown |
 
 # Github
-| name | Topics | sites | maintainer|
+| Name | Topics | Sites | Maintainer |
 | --- | --- | --- | --- |
 | kkndme | Housing | https://github.com/shengcaishizhan/kkndme_tianya | shengcaishizhan |
 
-# W
-| name | Topics | sites | maintainer|
+# Websites
+| Name | Topics | Sites | Maintainer |
 | --- | --- | --- | --- |
+| Hacker News | IT News | https://news.ycombinator.com/ | Unknowm |
 
