@@ -24,7 +24,7 @@
 | :---: | :--- |
 | [Privacy Tools](https://www.privacytools.io/) | Provides services, tools  and privacy guides to counter global mass surveillance |
 
-# Reading & Watching
+# :watch：Reading & Watching
 | Topics | Platform/Types | Sites | Author |
 | :---: | :---: | :--- | :---: |
 | 晶片战争 | Youtube | https://youtube.com/playlist?list=PLgKat64mmTvWPOe79O5EbcN_yg3g9UHmF | 李天豪 |
