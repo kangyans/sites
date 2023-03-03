@@ -1,4 +1,4 @@
-# MRI Labs
+# :classical_building: MRI Labs
 | PI | Topics | Sites | Insititute |
 | :---: | :---: | :--- | :---: |
 | [Anthony Christodoulou](https://scholar.google.com/citations?user=9CUgWDIAAAAJ) | MRI | https://researchers.cedars-sinai.edu/Anthony.Christodoulou | UCLA |
