@@ -19,12 +19,12 @@
 | [Wait But Why](https://waitbutwhy.com/homepage) | | | |
 | [Weekly](https://github.com/ruanyf/weekly) | | | |
 
-# Internet Security
+# :hammer_and_wrench:
 | Name | Description |
 | :---: | :--- |
 | [Privacy Tools](https://www.privacytools.io/) | Provides services, tools  and privacy guides to counter global mass surveillance |
 
-# :book: & :clapper: R & W
+# :book: & :clapper: 
 | Topics | Platform/Types | Sites | Author |
 | :---: | :---: | :--- | :---: |
 | 晶片战争 | Youtube | https://youtube.com/playlist?list=PLgKat64mmTvWPOe79O5EbcN_yg3g9UHmF | 李天豪 |
