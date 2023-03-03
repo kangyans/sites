@@ -3,7 +3,8 @@
 | :---: | :---: | :--- | :---: |
 | [Anthony Christodoulou](https://scholar.google.com/citations?user=9CUgWDIAAAAJ) | MRI | https://researchers.cedars-sinai.edu/Anthony.Christodoulou | UCLA |
 | [Berkin Bilgic](https://scholar.google.com/citations?user=UiSXwdIAAAAJ) | MRI | https://www.nmr.mgh.harvard.edu/~berkin/index.html | MGH |
-| [Brian A.Hargreaves](https://scholar.google.com/citations?user=aBxHVEQAAAAJ) | MRI | https://med.stanford.edu/profiles/brian-hargreaves#bio | Stanford University |
+| [Brian A. Hargreaves](https://scholar.google.com/citations?user=aBxHVEQAAAAJ) | MRI | https://med.stanford.edu/profiles/brian-hargreaves#bio | Stanford University |
+| [Holden H. Wu](https://scholar.google.com/citations?user=b6F4JO4AAAAJ) | MRI | https://mrrl.ucla.edu/wulab/ | UCLA |
 | [Jürgen Hennig](https://scholar.google.com.vn/citations?user=Qh2Le2sAAAAJ&hl=en) | MRI | http://sgbm.uni-freiburg.de/index.php?option=com_zooprofiles&task=userProfile&user=13302 | University Medical Center Freiburg |
 | [Jeff Fessler](https://scholar.google.com/citations?user=J5f4Gq8AAAAJ) | Medical imaging | https://web.eecs.umich.edu/~fessler/ | Umich |
 | [Kawin Setsompop](https://scholar.google.com/citations?user=bYDAyV4AAAAJ) | MRI | https://med.stanford.edu/profiles/kawin-setsompop#bio | Stanford University |
