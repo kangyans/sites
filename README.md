@@ -18,9 +18,6 @@
 | [Hacker News](https://news.ycombinator.com/) | [Scientific American](https://www.scientificamerican.com/) | [The Economist](https://www.economist.com/) | [The New Yorker](https://www.newyorker.com/)
 | [Wait But Why](https://waitbutwhy.com/homepage) | | | |
 
-| Scientific American | Science | https://www.scientificamerican.com/ | Unknown |
-| New Yourker |  Tools | https://www.privacytools.io/ | Unknown |
-
 # Internet Security
 | Name | Topics | Sites | Maintainer |
 | :---: | :---: | :--- | :---: |
