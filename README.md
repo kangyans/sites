@@ -20,14 +20,14 @@
 | [Weekly](https://github.com/ruanyf/weekly) | | | |
 
 # Internet Security
-| Name | Topics | Sites | Maintainer |
-| :---: | :---: | :--- | :---: |
-| Privacy Tools |  Tools | https://www.privacytools.io/ | Unknown |
+| Name | Description |
+| :---: | :---: |
+| [Privacy Tools](https://www.privacytools.io/) |  A list of tools to help you keep your digtal data in security when you are surfing in the Internet. |
 
 # Reading & Watching
 | Topics | Platform/Types | Sites | Author |
 | :---: | :---: | :--- | :---: |
-| Chip War | Youtube | https://youtube.com/playlist?list=PLgKat64mmTvWPOe79O5EbcN_yg3g9UHmF | 李天豪 |
+| 晶片战争 | Youtube | https://youtube.com/playlist?list=PLgKat64mmTvWPOe79O5EbcN_yg3g9UHmF | 李天豪 |
 | 中国买房漫谈 | Github | https://github.com/shengcaishizhan/kkndme_tianya | kkndme |
 
 
