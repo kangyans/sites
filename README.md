@@ -13,3 +13,11 @@
 | --- | --- | --- | --- |
 | Hacker News | IT News | https://news.ycombinator.com/ | Unknowm |
 
+# Blogs
+| Name | Topics | Sites | Maintainer |
+| --- | --- | --- | --- |
+
+# Recommendations
+| Name | Topics | Sites | Maintainer |
+| --- | --- | --- | --- |
+
