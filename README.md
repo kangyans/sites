@@ -1,6 +1,6 @@
 # :classical_building: MRI Labs
 | PI | Topics | Sites | Insititute |
-| :---: | :---: | :--- | :---: |
+| :---: | :---: | --- | :---: |
 | [Anthony Christodoulou](https://scholar.google.com/citations?user=9CUgWDIAAAAJ) | MRI | https://researchers.cedars-sinai.edu/Anthony.Christodoulou | UCLA |
 | [Berkin Bilgic](https://scholar.google.com/citations?user=UiSXwdIAAAAJ) | MRI | https://www.nmr.mgh.harvard.edu/~berkin/index.html | MGH |
 | [Brian A. Hargreaves](https://scholar.google.com/citations?user=aBxHVEQAAAAJ) | MRI | https://med.stanford.edu/bmrgroup | Stanford University |
