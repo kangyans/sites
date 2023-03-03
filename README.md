@@ -5,6 +5,7 @@
 | [Wait But Why](https://waitbutwhy.com/homepage) | | | |
 | [Weekly](https://github.com/ruanyf/weekly) | | | |
 | [Slashdot](https://slashdot.org/) | | | |
+| [Solidot](https://www.solidot.org/) | | | |
 
 # :hammer_and_wrench: Tools
 | Name | Description |
