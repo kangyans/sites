@@ -12,7 +12,7 @@
 | [Martin Uecker](https://scholar.google.com/citations?user=r7BG-ZYAAAAJ) | MRI | https://wwwuser.gwdg.de/~muecker1/ | University Medical Center Göttingen |
 | [Ulugbek S. Kamilov](https://scholar.google.com/citations?user=3qYUSDwAAAAJ) | Computational Imaging | https://cigroup.wustl.edu/ | Washigton University in St.Lousis |
 
-# News 
+# :globe_with_meridians: 
 | Tech | Science | Economy | Humanities |
 | :---: | :---: | :---: | :---: |
 | [Hacker News](https://news.ycombinator.com/) | [Scientific American](https://www.scientificamerican.com/) | [The Economist](https://www.economist.com/) | [The New Yorker](https://www.newyorker.com/)
@@ -24,7 +24,7 @@
 | :---: | :--- |
 | [Privacy Tools](https://www.privacytools.io/) | Provides services, tools  and privacy guides to counter global mass surveillance |
 
-# :watch：Reading & Watching
+# R & W
 | Topics | Platform/Types | Sites | Author |
 | :---: | :---: | :--- | :---: |
 | 晶片战争 | Youtube | https://youtube.com/playlist?list=PLgKat64mmTvWPOe79O5EbcN_yg3g9UHmF | 李天豪 |
