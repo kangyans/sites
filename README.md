@@ -3,7 +3,7 @@
 | :---: | :---: | :--- | :---: |
 | Privacy Tools |  Tool lists | https://www.privacytools.io/ | Unknown |
 
-# Github
+# Life
 | Name | Topics | Sites | Maintainer |
 | :---: | :---: | :--- | :---: |
 | kkndme | Housing | https://github.com/shengcaishizhan/kkndme_tianya | shengcaishizhan |
