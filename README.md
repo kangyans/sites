@@ -12,14 +12,14 @@
 | [Martin Uecker](https://scholar.google.com/citations?user=r7BG-ZYAAAAJ) | MRI | https://wwwuser.gwdg.de/~muecker1/ | University Medical Center Göttingen |
 | [Ulugbek S. Kamilov](https://scholar.google.com/citations?user=3qYUSDwAAAAJ) | Computational Imaging | https://cigroup.wustl.edu/ | Washigton University in St.Lousis |
 
-# :globe_with_meridians: 
+# :globe_with_meridians: What's happening...
 | Tech | Science | Economy | Humanities |
 | :---: | :---: | :---: | :---: |
 | [Hacker News](https://news.ycombinator.com/) | [Scientific American](https://www.scientificamerican.com/) | [The Economist](https://www.economist.com/) | [The New Yorker](https://www.newyorker.com/)
 | [Wait But Why](https://waitbutwhy.com/homepage) | | | |
 | [Weekly](https://github.com/ruanyf/weekly) | | | |
 
-# :hammer_and_wrench:
+# :hammer_and_wrench: Tools
 | Name | Description |
 | :---: | :--- |
 | [Privacy Tools](https://www.privacytools.io/) | Provides services, tools  and privacy guides to counter global mass surveillance |
