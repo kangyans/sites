@@ -28,6 +28,6 @@
 | Topics | Platform/Types | Sites | Author |
 | :---: | :---: | :--- | :---: |
 | 晶片战争 | Youtube | https://youtube.com/playlist?list=PLgKat64mmTvWPOe79O5EbcN_yg3g9UHmF | 李天豪 |
-| 中国买房漫谈 | Github | https://github.com/shengcaishizhan/kkndme_tianya | kkndme |
+| 中国买房漫谈 | 天涯论坛 | https://github.com/shengcaishizhan/kkndme_tianya | kkndme |
 
 
