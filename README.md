@@ -17,6 +17,7 @@
 | :---: | :---: | :---: | :---: |
 | [Hacker News](https://news.ycombinator.com/) | [Scientific American](https://www.scientificamerican.com/) | [The Economist](https://www.economist.com/) | [The New Yorker](https://www.newyorker.com/)
 | [Wait But Why](https://waitbutwhy.com/homepage) | | | |
+| [Weekly](https://github.com/ruanyf/weekly) | | | |
 
 # Internet Security
 | Name | Topics | Sites | Maintainer |
