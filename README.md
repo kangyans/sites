@@ -3,7 +3,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | [Hacker News](https://news.ycombinator.com/) | [Scientific American](https://www.scientificamerican.com/) | [The Economist](https://www.economist.com/) | [The New Yorker](https://www.newyorker.com/) | [XKCD](https://xkcd.com/) |
 | [Wait But Why](https://waitbutwhy.com/homepage) | [Changhai](https://changhai.org/) | | | |
-| [Weekly](https://github.com/ruanyf/weekly) | | | | |
+| [Weekly](https://github.com/ruanyf/weekly) | [Neil deGrasse Tyson](https://neildegrassetyson.com/) | | | |
 | [Slashdot](https://slashdot.org/) | | | | |
 | [Solidot](https://www.solidot.org/) | | | | |
 
